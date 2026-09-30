@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Soriano Angeles Judith Valera \[23212231]; l23212231@tijuana.tecnm.mx
 
 Modelado de Sistemas Fisiológicos
 
